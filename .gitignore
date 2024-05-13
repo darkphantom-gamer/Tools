@@ -1,0 +1,8 @@
+# List IP 
+listip.txt
+
+# PyCache
+__pycache__
+
+# Log
+errors.log
