@@ -18,7 +18,7 @@ Automatically change tor ip address over time and using privoxy when accessing t
     - Find & Remove `#` in `forward-socks5t   /               127.0.0.1:9050 .`
 
 # Usage
-1. Git clone https://github.com/noobpk/auto-change-tor-ip.git
+1. Git clone https://github.com/darkphantom-gamer/Tools
 1. cd auto-change-tor-ip/
 1. python3 autorip.py
 1. set time and loop
