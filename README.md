@@ -34,8 +34,4 @@ Automatically change tor ip address over time and using privoxy when accessing t
 # Interface Autorip when running
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/31820707/142809533-8e1034ed-cde1-483f-a363-1749d9b6e755.png">
 
-# Demo
-|Name|Link|
-|----|----|
-|Automation change tor ip address &#124; Basic Usage &#124; Tor - Privoxy - Bypass Firewall  Block Ip| https://youtu.be/GxnUKkYEHcw |
-|Automation change tor ip address &#124; Advance Usage &#124; Burp Suite - Nmap - Bypass Firewall  Block Ip| https://youtu.be/X4avfaYWGtw |
+
